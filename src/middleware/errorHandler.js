@@ -1,5 +1,5 @@
 import ErrorCodes from '../errors/errorCodes.js';
-import AppError from '../errors/AppError.js';
+import AppError from '../errors/appError.js';
 import logger from '../utils/logger.js';
 
 function normalizeError(err) {
